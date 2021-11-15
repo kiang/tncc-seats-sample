@@ -10,13 +10,343 @@
       "seat": 1,
       "name": "郭信良",
       "party": "無",
-      "status": 1
+      "status": 3
     },
     {
       "seat": 2,
       "name": "林炳利",
       "party": "無",
+      "status": 1
+    },
+    {
+      "seat": 3,
+      "name": "趙昆原",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 4,
+      "name": "谷暮·哈就",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 5,
+      "name": "盧崑福",
+      "party": "國",
+      "status": 1
+    },
+    {
+      "seat": 6,
+      "name": "曾信凱",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 7,
+      "name": "林易瑩",
+      "party": "時",
       "status": 3
+    },
+    {
+      "seat": 8,
+      "name": "許又仁",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 9,
+      "name": "陳碧玉",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 10,
+      "name": "陳秋萍",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 11,
+      "name": "劉米山",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 12,
+      "name": "蔡蘇秋金",
+      "party": "民",
+      "status": 2
+    },
+    {
+      "seat": 13,
+      "name": "陳昆和",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 14,
+      "name": "郭清華",
+      "party": "民",
+      "status": 2
+    },
+    {
+      "seat": 15,
+      "name": "蔡秋蘭",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 16,
+      "name": "李啟維",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 17,
+      "name": "郭鴻儀",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 18,
+      "name": "謝龍介",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 19,
+      "name": "王家貞",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 20,
+      "name": "沈震東",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 21,
+      "name": "李文俊",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 22,
+      "name": "曾培雅",
+      "party": "國",
+      "status": 3
+    },
+    {
+      "seat": 23,
+      "name": "林美燕",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 24,
+      "name": "林燕祝",
+      "party": "國",
+      "status": 3
+    },
+    {
+      "seat": 25,
+      "name": "杜素吟",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 26,
+      "name": "黃麗招",
+      "party": "無",
+      "status": 3
+    },
+    {
+      "seat": 27,
+      "name": "邱莉莉",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 28,
+      "name": "李偉智",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 29,
+      "name": "穎艾達利",
+      "party": "無",
+      "status": 3
+    },
+    {
+      "seat": 30,
+      "name": "李鎮國",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 31,
+      "name": "林阳乙",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 32,
+      "name": "周奕齊",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 33,
+      "name": "林志聰",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 34,
+      "name": "陳怡珍",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 35,
+      "name": "王錦德",
+      "party": "民",
+      "status": 2
+    },
+    {
+      "seat": 36,
+      "name": "",
+      "party": "",
+      "status": 1
+    },
+    {
+      "seat": 37,
+      "name": "楊中成",
+      "party": "台",
+      "status": 3
+    },
+    {
+      "seat": 38,
+      "name": "謝財旺",
+      "party": "無",
+      "status": 1
+    },
+    {
+      "seat": 39,
+      "name": "陳秋宏",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 40,
+      "name": "沈家鳳",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 41,
+      "name": "呂維胤",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 42,
+      "name": "林志展",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 43,
+      "name": "鄭佳欣",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 44,
+      "name": "蔡旺詮",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 45,
+      "name": "吳禹寰",
+      "party": "無",
+      "status": 2
+    },
+    {
+      "seat": 46,
+      "name": "吳通龍",
+      "party": "民",
+      "status": 2
+    },
+    {
+      "seat": 47,
+      "name": "周麗津",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 48,
+      "name": "李中岑",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 49,
+      "name": "李宗翰",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 50,
+      "name": "蔡筱薇",
+      "party": "民",
+      "status": 3
+    },
+    {
+      "seat": 51,
+      "name": "許至樁",
+      "party": "國",
+      "status": 3
+    },
+    {
+      "seat": 52,
+      "name": "張世賢",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 53,
+      "name": "方一峰",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 54,
+      "name": "蔡育輝",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 55,
+      "name": "蔡淑惠",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 56,
+      "name": "尤榮智",
+      "party": "國",
+      "status": 2
+    },
+    {
+      "seat": 57,
+      "name": "洪玉鳳",
+      "party": "國",
+      "status": 2
     }
   ]
 }
